@@ -1,0 +1,8 @@
+# Ignorar entornos y cachés
+.venv/
+__pycache__/
+*.log
+*.tmp
+*.ipynb_checkpoints/
+*.csv
+*.xlsx

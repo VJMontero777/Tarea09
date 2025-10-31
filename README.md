@@ -52,4 +52,4 @@ Desarrollar un sistema de monitoreo inteligente que predice y alerta si la tempe
 Proyecto desarrollado por **Victor Junior Montero Mandujano (SENATI)**  
 para el curso **PIAD-528 – Taller de Desarrollo de Aplicaciones con Machine Learning**.  
 
-> Supervisado por el instructor Anthony Heli Barra Espinoz  a […], Octubre 2025.
+> Supervisado por el instructor Anthony Heli Barra Espinoza […], Octubre 2025.
